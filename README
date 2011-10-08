@@ -1,1 +1,16 @@
-TEST!!
+Introduction
+This tool gathers from a society of agents their emotional arousal and self-rated motivations as 
+well as their location in order to plot a map of a city or geographical region with information 
+about the motivations and emotional state of the agents that inhabit it. 
+
+It is oriented to emotions, goals and beliefs originaly in the form of the Belief-Desire Theory of Emotions (BDTE).
+
+Binaries
+Only for Windows: http://student.dei.uc.pt/~lfac/stem/downloads.html
+
+Compiling the source code
+1. Download and instal Qt SDK: http://qt.nokia.com/downloads
+2. Open the Qt Creator IDE and then open the Emotional_mapper.pro file
+
+More info
+Go to http://student.dei.uc.pt/~lfac/stem/
